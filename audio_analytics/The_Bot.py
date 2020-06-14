@@ -238,4 +238,4 @@ class My_Brilliant_Bot:
 
 
 if __name__ == '__main__':
-    itai_bot = My_Brilliant_Bot('1288285979:AAH1vjbpdz48VkystMkp1K0BfjHlHGOdPnM')
+    itai_bot = My_Brilliant_Bot(" the bot's token ")
